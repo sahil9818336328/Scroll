@@ -1,6 +1,6 @@
 # Scroll project
 
-### Click on the link and scroll to the particular section in the docment .
+### Click on the link and scroll to that particular section in the website .
 
 # Technologies used: 
 
