@@ -1,6 +1,8 @@
 # Scroll project
 
-### Click on the link and scroll to that particular section in the website .
+### Click the link and scroll to that particular section in the website .
+
+### View my deployed app at :- https://sahil9818336328.github.io/Scroll/
 
 # Technologies used: 
 
